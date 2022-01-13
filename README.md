@@ -1,3 +1,1 @@
-# Style3D-Paper-List
-
-Keep following
+- Cross-Domain and Disentangled Face Manipulation with 3D Guidance
